@@ -1042,11 +1042,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lreyes\\source\\repos\\Challenge1_stackly_JobSearch\\JobSearch.Data.Dapper\\JobSearch.Data.Dapper.csproj",
+      "projectUniqueName": "C:\\GitJoseLuisRoot\\challenge_1_stacklycode\\JobSearch.Data.Dapper\\JobSearch.Data.Dapper.csproj",
       "projectName": "JobSearch.Data.Dapper",
-      "projectPath": "C:\\Users\\lreyes\\source\\repos\\Challenge1_stackly_JobSearch\\JobSearch.Data.Dapper\\JobSearch.Data.Dapper.csproj",
+      "projectPath": "C:\\GitJoseLuisRoot\\challenge_1_stacklycode\\JobSearch.Data.Dapper\\JobSearch.Data.Dapper.csproj",
       "packagesPath": "C:\\Users\\lreyes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lreyes\\source\\repos\\Challenge1_stackly_JobSearch\\JobSearch.Data.Dapper\\obj\\",
+      "outputPath": "C:\\GitJoseLuisRoot\\challenge_1_stacklycode\\JobSearch.Data.Dapper\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lreyes\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1062,8 +1062,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\lreyes\\source\\repos\\Challenge1_stackly_JobSearch\\JobSearch.Model\\JobSearch.Model.csproj": {
-              "projectPath": "C:\\Users\\lreyes\\source\\repos\\Challenge1_stackly_JobSearch\\JobSearch.Model\\JobSearch.Model.csproj"
+            "C:\\GitJoseLuisRoot\\challenge_1_stacklycode\\JobSearch.Model\\JobSearch.Model.csproj": {
+              "projectPath": "C:\\GitJoseLuisRoot\\challenge_1_stacklycode\\JobSearch.Model\\JobSearch.Model.csproj"
             }
           }
         }

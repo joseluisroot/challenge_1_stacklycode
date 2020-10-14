@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "obaw3afkjDyX1z8GIJbBE45SRZQsHYWjsMTjfT2bHqUVki+a5HOpdghp8AsAULPpB8mvmUQRwdG4JAmojF5Hww==",
+  "dgSpecHash": "uEu63OYKVrqzaFFgzhoJK+DL+261Q/B3W1b+8G9ZxCloZDNKSS004vWrNmndC2LVfDM/iGKMhNTBbWPNK8rcDA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lreyes\\source\\repos\\Challenge1_stackly_JobSearch\\JobSearch.Model\\JobSearch.Model.csproj",
+  "projectFilePath": "C:\\GitJoseLuisRoot\\challenge_1_stacklycode\\JobSearch.Model\\JobSearch.Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lreyes\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\lreyes\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

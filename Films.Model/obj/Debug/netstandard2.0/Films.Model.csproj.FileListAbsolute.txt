@@ -1,8 +1,0 @@
-C:\Users\lreyes\source\repos\Challenge1_stackly_JobSearch\Films.Model\bin\Debug\netstandard2.0\Films.Model.deps.json
-C:\Users\lreyes\source\repos\Challenge1_stackly_JobSearch\Films.Model\bin\Debug\netstandard2.0\Films.Model.dll
-C:\Users\lreyes\source\repos\Challenge1_stackly_JobSearch\Films.Model\bin\Debug\netstandard2.0\Films.Model.pdb
-C:\Users\lreyes\source\repos\Challenge1_stackly_JobSearch\Films.Model\obj\Debug\netstandard2.0\Films.Model.AssemblyInfoInputs.cache
-C:\Users\lreyes\source\repos\Challenge1_stackly_JobSearch\Films.Model\obj\Debug\netstandard2.0\Films.Model.AssemblyInfo.cs
-C:\Users\lreyes\source\repos\Challenge1_stackly_JobSearch\Films.Model\obj\Debug\netstandard2.0\Films.Model.csproj.CoreCompileInputs.cache
-C:\Users\lreyes\source\repos\Challenge1_stackly_JobSearch\Films.Model\obj\Debug\netstandard2.0\Films.Model.dll
-C:\Users\lreyes\source\repos\Challenge1_stackly_JobSearch\Films.Model\obj\Debug\netstandard2.0\Films.Model.pdb

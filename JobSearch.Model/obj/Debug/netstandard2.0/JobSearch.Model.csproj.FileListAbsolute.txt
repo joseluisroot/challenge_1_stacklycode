@@ -6,3 +6,12 @@ C:\Users\lreyes\source\repos\Challenge1_stackly_JobSearch\JobSearch.Model\obj\De
 C:\Users\lreyes\source\repos\Challenge1_stackly_JobSearch\JobSearch.Model\obj\Debug\netstandard2.0\JobSearch.Model.csproj.CoreCompileInputs.cache
 C:\Users\lreyes\source\repos\Challenge1_stackly_JobSearch\JobSearch.Model\obj\Debug\netstandard2.0\JobSearch.Model.dll
 C:\Users\lreyes\source\repos\Challenge1_stackly_JobSearch\JobSearch.Model\obj\Debug\netstandard2.0\JobSearch.Model.pdb
+C:\GitJoseLuisRoot\challenge_1_stacklycode\JobSearch.Model\bin\Debug\netstandard2.0\JobSearch.Model.deps.json
+C:\GitJoseLuisRoot\challenge_1_stacklycode\JobSearch.Model\bin\Debug\netstandard2.0\JobSearch.Model.dll
+C:\GitJoseLuisRoot\challenge_1_stacklycode\JobSearch.Model\bin\Debug\netstandard2.0\JobSearch.Model.pdb
+C:\GitJoseLuisRoot\challenge_1_stacklycode\JobSearch.Model\obj\Debug\netstandard2.0\JobSearch.Model.csprojAssemblyReference.cache
+C:\GitJoseLuisRoot\challenge_1_stacklycode\JobSearch.Model\obj\Debug\netstandard2.0\JobSearch.Model.AssemblyInfoInputs.cache
+C:\GitJoseLuisRoot\challenge_1_stacklycode\JobSearch.Model\obj\Debug\netstandard2.0\JobSearch.Model.AssemblyInfo.cs
+C:\GitJoseLuisRoot\challenge_1_stacklycode\JobSearch.Model\obj\Debug\netstandard2.0\JobSearch.Model.csproj.CoreCompileInputs.cache
+C:\GitJoseLuisRoot\challenge_1_stacklycode\JobSearch.Model\obj\Debug\netstandard2.0\JobSearch.Model.dll
+C:\GitJoseLuisRoot\challenge_1_stacklycode\JobSearch.Model\obj\Debug\netstandard2.0\JobSearch.Model.pdb

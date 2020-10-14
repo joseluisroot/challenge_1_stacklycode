@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lreyes\\source\\repos\\Challenge1_stackly_JobSearch\\JobSearch.Model\\JobSearch.Model.csproj",
+      "projectUniqueName": "C:\\GitJoseLuisRoot\\challenge_1_stacklycode\\JobSearch.Model\\JobSearch.Model.csproj",
       "projectName": "JobSearch.Model",
-      "projectPath": "C:\\Users\\lreyes\\source\\repos\\Challenge1_stackly_JobSearch\\JobSearch.Model\\JobSearch.Model.csproj",
+      "projectPath": "C:\\GitJoseLuisRoot\\challenge_1_stacklycode\\JobSearch.Model\\JobSearch.Model.csproj",
       "packagesPath": "C:\\Users\\lreyes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lreyes\\source\\repos\\Challenge1_stackly_JobSearch\\JobSearch.Model\\obj\\",
+      "outputPath": "C:\\GitJoseLuisRoot\\challenge_1_stacklycode\\JobSearch.Model\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lreyes\\AppData\\Roaming\\NuGet\\NuGet.Config",

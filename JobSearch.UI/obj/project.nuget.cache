@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GKK4DJtlbB7l6noyIVEHW6MXQR5/bgV6XsoDYXZF3MDqntb+R6XF7xihLTDk5vowHjfocr5nkv9f3my7gSLYFQ==",
+  "dgSpecHash": "C7YiaueI/fTD8WqKoTuG/jL5tfQELZ6eS81n0Tim11wmjhI2cOjUd4kD5ORLkyH3TO6LwAp9RO8jnq4iDY5Kbw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lreyes\\source\\repos\\Challenge1_stackly_JobSearch\\JobSearch.UI\\JobSearch.UI.csproj",
+  "projectFilePath": "C:\\GitJoseLuisRoot\\challenge_1_stacklycode\\JobSearch.UI\\JobSearch.UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lreyes\\.nuget\\packages\\dapper\\2.0.35\\dapper.2.0.35.nupkg.sha512",
     "C:\\Users\\lreyes\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

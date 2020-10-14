@@ -10,3 +10,15 @@ C:\Users\lreyes\source\repos\Challenge1_stackly_JobSearch\JobSearch.Data.Dapper\
 C:\Users\lreyes\source\repos\Challenge1_stackly_JobSearch\JobSearch.Data.Dapper\obj\Debug\netstandard2.0\JobSearch.Data.Dapper.csproj.CopyComplete
 C:\Users\lreyes\source\repos\Challenge1_stackly_JobSearch\JobSearch.Data.Dapper\obj\Debug\netstandard2.0\JobSearch.Data.Dapper.dll
 C:\Users\lreyes\source\repos\Challenge1_stackly_JobSearch\JobSearch.Data.Dapper\obj\Debug\netstandard2.0\JobSearch.Data.Dapper.pdb
+C:\GitJoseLuisRoot\challenge_1_stacklycode\JobSearch.Data.Dapper\bin\Debug\netstandard2.0\JobSearch.Data.Dapper.deps.json
+C:\GitJoseLuisRoot\challenge_1_stacklycode\JobSearch.Data.Dapper\bin\Debug\netstandard2.0\JobSearch.Data.Dapper.dll
+C:\GitJoseLuisRoot\challenge_1_stacklycode\JobSearch.Data.Dapper\bin\Debug\netstandard2.0\JobSearch.Data.Dapper.pdb
+C:\GitJoseLuisRoot\challenge_1_stacklycode\JobSearch.Data.Dapper\bin\Debug\netstandard2.0\JobSearch.Model.dll
+C:\GitJoseLuisRoot\challenge_1_stacklycode\JobSearch.Data.Dapper\bin\Debug\netstandard2.0\JobSearch.Model.pdb
+C:\GitJoseLuisRoot\challenge_1_stacklycode\JobSearch.Data.Dapper\obj\Debug\netstandard2.0\JobSearch.Data.Dapper.csprojAssemblyReference.cache
+C:\GitJoseLuisRoot\challenge_1_stacklycode\JobSearch.Data.Dapper\obj\Debug\netstandard2.0\JobSearch.Data.Dapper.AssemblyInfoInputs.cache
+C:\GitJoseLuisRoot\challenge_1_stacklycode\JobSearch.Data.Dapper\obj\Debug\netstandard2.0\JobSearch.Data.Dapper.AssemblyInfo.cs
+C:\GitJoseLuisRoot\challenge_1_stacklycode\JobSearch.Data.Dapper\obj\Debug\netstandard2.0\JobSearch.Data.Dapper.csproj.CoreCompileInputs.cache
+C:\GitJoseLuisRoot\challenge_1_stacklycode\JobSearch.Data.Dapper\obj\Debug\netstandard2.0\JobSearch.Data.Dapper.csproj.CopyComplete
+C:\GitJoseLuisRoot\challenge_1_stacklycode\JobSearch.Data.Dapper\obj\Debug\netstandard2.0\JobSearch.Data.Dapper.dll
+C:\GitJoseLuisRoot\challenge_1_stacklycode\JobSearch.Data.Dapper\obj\Debug\netstandard2.0\JobSearch.Data.Dapper.pdb
