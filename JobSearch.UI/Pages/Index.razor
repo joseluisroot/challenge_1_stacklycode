@@ -1,0 +1,48 @@
+﻿@layout MainLayout
+@page "/"
+@using JobSearch.Model
+@using Interfaces
+@inject IJobService JobService
+
+@if (jobs == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    @foreach (var job in jobs)
+    {
+        <a href="/DetailsJob/@job.idJob">
+            <section>
+                <div class="info-job">
+                    <img src="https://picsum.photos/90/90" alt="">
+                    <div class="info-job-content">
+                        <p class="company">@job.company</p>
+                        <h3 class="name-job">@job.nameJob</h3>
+                        <span class="tag">@job.type</span>
+                    </div>
+                </div>
+                <div class="origin-time">
+                    <span class="origin"><i class="fas fa-globe-americas"></i> @job.place</span>
+                    <span class="time"><i class="far fa-clock"></i> @job.finalDate</span>
+                </div>
+            </section>
+        </a>
+    }
+
+}
+
+
+
+@code {
+
+    private IEnumerable<Job> jobs;
+
+    protected override async Task OnInitializedAsync()
+    {
+        jobs = await JobService.getAllJobs();
+    }
+
+}
+
+

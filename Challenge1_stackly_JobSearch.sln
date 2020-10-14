@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoUdemyCrud", "CursoUdemyCrud\CursoUdemyCrud.csproj", "{ED9283D5-29F2-4976-A61C-4FAE965730DC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Films.Model", "Films.Model\Films.Model.csproj", "{2D356149-7E7A-4A17-85BE-3A328CD83A73}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Films.Data.Dapper", "Films.Data.Dapper\Films.Data.Dapper.csproj", "{1107F37F-49FB-471A-809B-D7D30801B914}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JobSearch.UI", "JobSearch.UI\JobSearch.UI.csproj", "{F8678242-74FF-4A78-AF0E-AF5C7CF77F5E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JobSearch.Model", "JobSearch.Model\JobSearch.Model.csproj", "{D7980C33-7AF7-419C-9FD9-45F9AFD81B06}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JobSearch.Data.Dapper", "JobSearch.Data.Dapper\JobSearch.Data.Dapper.csproj", "{B0F4EBAA-6C12-43C0-A924-1F487F10547D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED9283D5-29F2-4976-A61C-4FAE965730DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED9283D5-29F2-4976-A61C-4FAE965730DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED9283D5-29F2-4976-A61C-4FAE965730DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED9283D5-29F2-4976-A61C-4FAE965730DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D356149-7E7A-4A17-85BE-3A328CD83A73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D356149-7E7A-4A17-85BE-3A328CD83A73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D356149-7E7A-4A17-85BE-3A328CD83A73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D356149-7E7A-4A17-85BE-3A328CD83A73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1107F37F-49FB-471A-809B-D7D30801B914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1107F37F-49FB-471A-809B-D7D30801B914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1107F37F-49FB-471A-809B-D7D30801B914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1107F37F-49FB-471A-809B-D7D30801B914}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8678242-74FF-4A78-AF0E-AF5C7CF77F5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8678242-74FF-4A78-AF0E-AF5C7CF77F5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8678242-74FF-4A78-AF0E-AF5C7CF77F5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8678242-74FF-4A78-AF0E-AF5C7CF77F5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7980C33-7AF7-419C-9FD9-45F9AFD81B06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7980C33-7AF7-419C-9FD9-45F9AFD81B06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7980C33-7AF7-419C-9FD9-45F9AFD81B06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7980C33-7AF7-419C-9FD9-45F9AFD81B06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0F4EBAA-6C12-43C0-A924-1F487F10547D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0F4EBAA-6C12-43C0-A924-1F487F10547D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0F4EBAA-6C12-43C0-A924-1F487F10547D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0F4EBAA-6C12-43C0-A924-1F487F10547D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5FEC129-5956-40AD-8266-0E0192B2225B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,51 @@
+﻿@inherits LayoutComponentBase
+
+<main>
+    <header>
+        <div class="name">
+            <h1><span class="bold">Github</span> <span class="light">Jobs</span></h1>
+        </div>
+        <form class="search-ppal">
+            <div class="search">
+                <input type="text" placeholder="&#xf0b1;     Title, companies, expertise or benefits">
+                <button value="Search">Search</button>
+            </div>
+        </form>
+    </header>
+    <div class="content-ppal">
+        <aside>
+            <input type="checkbox" id="cbox2" value="full_time">
+            <label for="cbox2">Full Time</label>
+            <p>Location</p>
+            <form action="">
+                <input type="text" placeholder="&#xf57d;     City, state, zip code or country" />
+            </form>
+            <div class="filters">
+                <div class="countries">
+                    <input type="checkbox" id="country1" value="full_time">
+                    <label for="country1">Lodon</label>
+                </div>
+                <div class="countries">
+                    <input type="checkbox" id="country2" value="full_time">
+                    <label for="country2">Amsterdam</label>
+                </div>
+                <div class="countries">
+                    <input type="checkbox" id="country3" value="full_time">
+                    <label for="country3">New York</label>
+                </div>
+                <div class="countries">
+                    <input type="checkbox" id="country4" value="full_time">
+                    <label for="country5">Berlin</label>
+                </div>
+            </div>
+        </aside>
+        <div class="content-jobs">
+            @Body
+        </div>
+    </div>
+    <footer>
+        <p> joseluisroot  DevChallenges.io</p>
+    </footer>
+</main>
+
+    

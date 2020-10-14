@@ -1,0 +1,61 @@
+﻿@page "/filmlist"
+@using Films.Model
+@using Interfaces
+@inject IFilmService FilmService
+<h3>Film List</h3>
+
+<p>
+     Pagina para enlistas todos los registros
+</p>
+
+@if (films==null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Director</th>
+                <th>Release Date</th>
+                <th></th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach( var film in films)
+            {
+            <tr>
+                <td>@film.title</td>
+                <td>@film.director</td>
+                <td>@film.releaseDate</td>
+                <td><a href="/filmdetails/@film.id"><span class="oi oi-pencil" aria-hidden="true"></span> Edit</a></td>
+                <td><a href="/filmdelete/@film.id"><span class="oi oi-delete" aria-hidden="true"></span> Delete</a></td>
+            </tr>
+            }
+            
+        </tbody>
+    </table>
+}
+
+@code {        
+
+    private IEnumerable<Film> films;
+
+    protected override async Task OnInitializedAsync()
+    {
+
+        try
+        {
+            films = await FilmService.getAllFilms();
+        }
+        catch (Exception ex)
+        {
+
+        }
+       
+    }
+
+}

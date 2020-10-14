@@ -1,0 +1,323 @@
+﻿/* MAMON el que vea esto!!  */
+
+@import url(./root/style_base.css);
+
+:root {
+    --color-ppal: #334680;
+    --color-gris-oscuro: #282538;
+    --color-gris: #B9BDCF;
+    --color-cyan: #1e86ff;
+    --color-
+}
+
+body {
+    background: #F6F7FB;
+    color: var(--color-ppal);
+}
+
+main {
+    padding: 12px;
+}
+
+header {
+    margin-bottom: 15px;
+    color: var(--color-gris-oscuro);
+}
+
+.name .bold {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+
+.name .light {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+}
+
+/*
+formulario de busqueda
+
+
+form.search-ppal input[type=text] {
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid var(--color-gris);
+  float: left;
+  width: 80%;
+  background: #FFF;
+  border-radius: 8px;
+  font-family: 'Roboto', FontAwesome, sans-serif;
+}
+
+form.search-ppal button {
+  float: left;
+  width: 20%;
+  padding: 10px;
+  background: #2196F3;
+  color: white;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none; 
+  cursor: pointer;
+}
+
+form.search-ppal button:hover {
+  background: #0b7dda;
+}
+
+
+form.search-ppal::after {
+  content: "";
+  clear: both;
+  display: table;
+}*/
+
+
+.search {
+    background-image: url(../img/backgroundImg.png);
+    height: 138px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+}
+
+    .search input {
+        width: 70%;
+        margin-left: 20px;
+        height: calc(40%);
+        border: none;
+        border-radius: 8px 0 0px 8px;
+        padding-left: 5px;
+        font-family: 'Roboto', FontAwesome, sans-serif;
+    }
+
+    .search button {
+        width: 150px;
+        height: 40%;
+        margin-right: 3px;
+        background-color: var(--color-cyan);
+        border: none;
+        border-radius: 4px;
+        font-family: 'Roboto', sans-serif;
+        line-height: 19px;
+        color: #fff;
+    }
+
+.content-ppal {
+    display: flex;
+}
+
+/*aside*/
+aside {
+    line-height: 35px;
+    width: 25%;
+    margin-right: 10px;
+}
+
+    aside form {
+        background: #FFF;
+        border-radius: 4px;
+        box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.05);
+        display: flex;
+        flex-direction: column;
+        margin: 10px 0;
+    }
+
+    aside input {
+        font-family: 'Roboto', FontAwesome, sans-serif;
+        padding: 10px;
+        border: none;
+    }
+
+    aside p {
+        color: var(--color-gris);
+        font-family: 'Roboto', sans-serif;
+    }
+
+/* GENERICOSS */
+input[type='checkbox'] {
+    border: 1px solid #B9BDCF;
+    box-sizing: border-box;
+    border-radius: 2px;
+}
+
+.filters {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.content-jobs {
+    width: 75%;
+    margin-left: 10px;
+}
+
+    .content-jobs a {
+        text-decoration: none;
+    }
+
+        .content-jobs a:visited, a:link, a:active {
+            color: var(--color-ppal);
+        }
+
+    .content-jobs section {
+        display: flex;
+        padding: 12px;
+        background-color: #FFF;
+        box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.05);
+        border-radius: 4px;
+        margin-bottom: 25px;
+        justify-content: space-between;
+    }
+
+    .content-jobs .info-job {
+        display: flex;
+        align-items: center;
+        height: 100%;
+        width: 70%;
+    }
+
+.info-job-content {
+    display: flex;
+    flex-direction: column;
+    margin-left: 16px;
+    line-height: 35px;
+}
+
+.content-jobs section img {
+    margin-right: 10px;
+}
+
+.content-jobs section .company {
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 12px;
+}
+
+span.tag {
+    border: 1px solid var(--color-ppal);
+    box-sizing: border-box;
+    border-radius: 4px;
+    padding: 5px;
+    font-size: 12px;
+    line-height: 14px;
+    width: -webkit-max-content;
+    width: max-content;
+}
+
+.origin-time {
+    display: flex;
+    font-size: 12px;
+    color: var(--color-gris);
+    align-self: flex-end;
+    line-height: 30px;
+}
+
+span.origin {
+    margin-right: 5px;
+    line-height: 30px;
+}
+
+p {
+    color: var(--color-ppal);
+}
+
+footer p {
+    color: var(--color-gris);
+    text-align: center;
+    padding: 25px;
+}
+
+
+
+/*PAGINA DETAILS*/
+
+.back-page a {
+    text-decoration: none;
+    color: var(--color-cyan);
+}
+
+.apply {
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    line-height: 21px;
+    font-weight: 700;
+}
+
+.p-details {
+    font-family: 'Poppins', sans-serif;
+    color: var(--color-ppal);
+}
+
+    .p-details a {
+        text-decoration: none;
+        color: var(--color-cyan);
+    }
+
+
+.job-title {
+    margin-top: 25px;
+    display: inline-flex;
+}
+
+    .job-title span {
+        margin-left: 10px;
+        height: 25px;
+    }
+
+section .time {
+    color: var(--color-gris);
+    font-size: 12px;
+    line-height: 14px;
+    font-family: 'Roboto', sans-serif;
+    display: block;
+    line-height: 30px;
+}
+
+.content-jobs-details {
+    width: 75%;
+}
+
+    .content-jobs-details section {
+        padding: 12px;
+    }
+
+.info-job-details {
+    display: flex;
+    margin-top: 25px;
+}
+
+    .info-job-details .origin {
+        color: var(--color-gris);
+        font-size: 12px;
+        line-height: 14px;
+    }
+
+.job-details-descripcion {
+    margin-top: 20px;
+    line-height: 30px;
+}
+
+    .job-details-descripcion p {
+        margin-bottom: 15px;
+    }
+
+
+@media only screen and (max-width: 650px) {
+    .content-ppal {
+        display: block;
+    }
+
+    aside {
+        line-height: 35px;
+        width: 100%;
+        margin-right: 0px;
+    }
+
+    .content-jobs {
+        width: 100%;
+        margin-left: 0px;
+    }
+}

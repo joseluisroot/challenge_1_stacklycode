@@ -1,0 +1,9 @@
+C:\Users\lreyes\source\repos\Challenge1_stackly_JobSearch\JobSearch.Model\bin\Release\netstandard2.0\JobSearch.Model.deps.json
+C:\Users\lreyes\source\repos\Challenge1_stackly_JobSearch\JobSearch.Model\bin\Release\netstandard2.0\JobSearch.Model.dll
+C:\Users\lreyes\source\repos\Challenge1_stackly_JobSearch\JobSearch.Model\bin\Release\netstandard2.0\JobSearch.Model.pdb
+C:\Users\lreyes\source\repos\Challenge1_stackly_JobSearch\JobSearch.Model\obj\Release\netstandard2.0\JobSearch.Model.csprojAssemblyReference.cache
+C:\Users\lreyes\source\repos\Challenge1_stackly_JobSearch\JobSearch.Model\obj\Release\netstandard2.0\JobSearch.Model.AssemblyInfoInputs.cache
+C:\Users\lreyes\source\repos\Challenge1_stackly_JobSearch\JobSearch.Model\obj\Release\netstandard2.0\JobSearch.Model.AssemblyInfo.cs
+C:\Users\lreyes\source\repos\Challenge1_stackly_JobSearch\JobSearch.Model\obj\Release\netstandard2.0\JobSearch.Model.csproj.CoreCompileInputs.cache
+C:\Users\lreyes\source\repos\Challenge1_stackly_JobSearch\JobSearch.Model\obj\Release\netstandard2.0\JobSearch.Model.dll
+C:\Users\lreyes\source\repos\Challenge1_stackly_JobSearch\JobSearch.Model\obj\Release\netstandard2.0\JobSearch.Model.pdb

@@ -1,0 +1,46 @@
+﻿@layout DetailsLayout
+@page "/DetailsJob/{id:int}"
+@using JobSearch.Model
+@using Interfaces
+@inject IJobService JobService
+@inject NavigationManager NavManager
+
+<aside>
+    <div class="back-page"><a href="/"><i class="fas fa-arrow-left"></i> Back to search</a> </div>
+    <p class="apply">HOW TO APPLY</p>
+    <p class="p-details">Please email a copy of your resume and online portfolio to <a href="mailto:wes@kasisto.com">wes@kasisto.com</a> & CC <a href="mailto:eric@kasisto.com">eric@kasisto.com</a></p>
+</aside>
+<div class="content-jobs-details">
+    <section>
+        <div class="job-title">
+            <h1>@jobs.nameJob</h1>
+            <span class="tag">@jobs.type</span>
+        </div>
+        <span class="time"><i class="far fa-clock"></i> @jobs.finalDate</span>
+        <div class="info-job-details">
+            <img src="https://picsum.photos/42/42" alt="">
+            <div class="info-job-content">
+                <p class="company">@jobs.company</p>
+                <span class="origin"><i class="fas fa-globe-americas"></i> @jobs.place</span>
+            </div>
+        </div>
+        <div class="job-details-descripcion">
+            @((MarkupString)jobs.description)
+        </div>
+    </section>
+
+</div>
+
+@code {
+    [Parameter]
+    public int id { get; set; }
+
+    Job jobs = new Job();
+
+
+    protected override async Task OnInitializedAsync()
+    {
+        jobs = await JobService.getDetails(id);
+
+    }
+}

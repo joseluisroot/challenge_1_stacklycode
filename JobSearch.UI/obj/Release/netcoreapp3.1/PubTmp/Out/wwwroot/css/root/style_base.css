@@ -1,0 +1,23 @@
+﻿/* esto es por que blazor lo necesita, sepaputas*/
+@import url(style_blazor.css);
+
+/*Esto para hacer los reset, haber si me acuerdo maricas  */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}
+
+main {
+    display: block;
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+
+
