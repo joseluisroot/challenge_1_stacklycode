@@ -2,7 +2,11 @@
 @page "/"
 @using JobSearch.Model
 @using Interfaces
+@using Newtonsoft.Json
+@using System.Web
 @inject IJobService JobService
+@inject HttpClient client
+
 
 @if (jobs == null)
 {
@@ -40,8 +44,17 @@ else
 
     protected override async Task OnInitializedAsync()
     {
+        var apiName = "";
+        var httpResponse = await client.GetAsync(apiName);
+
+        if (httpResponse.IsSuccessStatusCode)
+        {
+            Console.WriteLine(httpResponse);
+        }
+
         jobs = await JobService.getAllJobs();
     }
+       
 
 }
 
